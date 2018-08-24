@@ -1,0 +1,16 @@
+{
+  "name": "zos-sample-with-gnosis-safe",
+  "version": "0.0.1",
+  "description": "Example ZeppelinOS project using gnosis safe as a dependency",
+  "main": "index.js",
+  "author": "spalladino@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "truffle": "^4.1.14",
+    "zos": "^1.4.1"
+  },
+  "dependencies": {
+    "gnosis-safe": "github:spalladino/safe-contracts#e5a59942ecb63ab15a317348978afed944325815",
+    "truffle-hdwallet-provider": "^0.0.3"
+  }
+}

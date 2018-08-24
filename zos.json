@@ -1,0 +1,9 @@
+{
+  "name": "zos-sample-with-gnosis-safe",
+  "version": "0.0.1",
+  "contracts": {},
+  "stdlib": {
+    "name": "gnosis-safe",
+    "version": "^0.0.1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "contracts": {},
+  "proxies": {
+    "GnosisSafePersonalEdition": [
+      {
+        "address": "0xf67dfef8dd417d4a9c34cbb85c525b03fb099e51",
+        "version": "0.0.1",
+        "implementation": "0x44e7f5855a77fe1793a96be8a1c9c3eaf47e9d09"
+      }
+    ]
+  },
+  "app": {
+    "address": "0x36f7ec6153f460d0eab6eee995a29a522bf10cb4"
+  },
+  "version": "0.0.1",
+  "package": {
+    "address": "0x895706d01b4cc7f148dae3f46a00f198f488c43f"
+  },
+  "provider": {
+    "address": "0x7c173973a506b37f0979f25a17767a5462934ff0"
+  },
+  "stdlib": {
+    "name": "gnosis-safe",
+    "version": "0.0.1",
+    "address": "0x1e6b915887637c5b32241e78b897f6b68d593229"
+  }
+}
